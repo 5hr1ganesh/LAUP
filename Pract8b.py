@@ -1,3 +1,5 @@
+# Find gcd of two numbers using Euclid's algorithm.
+
 def gcd_fun(a, b):
     if b != 0:
         return gcd_fun(b, a % b)

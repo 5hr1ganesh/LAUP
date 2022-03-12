@@ -1,3 +1,5 @@
+# Convert matrix into row echelon form
+
 def RE( M):
     if not M: return
     lead = 0

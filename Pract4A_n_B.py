@@ -1,3 +1,6 @@
+# Enter an r by c matrix M
+# Display M in matrix format
+
 import numpy as np
 
 M = np.array([[1, 1, 2],

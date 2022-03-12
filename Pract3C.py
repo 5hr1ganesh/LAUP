@@ -1,3 +1,5 @@
+# Find the average face of the original faces
+
 from PIL import Image
 import numpy as np
 

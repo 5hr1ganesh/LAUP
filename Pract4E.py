@@ -1,3 +1,5 @@
+# Find the transpose of the matrix M
+
 import numpy as np
 
 M = np.array([[1, 1, 2],

@@ -1,3 +1,5 @@
+# Enter a matrix and check if its invertible. if the inverse exists, find the inverse
+
 import numpy as np
 
 M = np.array([[1, 2, 1], [2, 1, 0], [3, 0, 2]])

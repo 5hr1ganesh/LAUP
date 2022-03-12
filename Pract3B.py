@@ -1,3 +1,5 @@
+# Find a new face as a linear combination of u and v i.e. au+bv for a and b in R
+
 import numpy as np
 from PIL import Image
 

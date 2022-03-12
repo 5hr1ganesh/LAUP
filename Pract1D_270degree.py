@@ -1,3 +1,5 @@
+# Create a new Plot by rotating the given number by 270degrees
+
 import matplotlib.pyplot as plt
 
 x = 2 + 4j

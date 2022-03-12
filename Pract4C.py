@@ -1,3 +1,5 @@
+# Display the rows and columns of the matrix M Printing rows
+
 import numpy as np
 
 M = np.array([[1, 1, 2],

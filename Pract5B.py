@@ -1,3 +1,5 @@
+# matrix-matrix product of M with a c by p matrix M
+
 X = [[3, 2, 2],
      [4, 1, 5],
      [7, 2, 7]]

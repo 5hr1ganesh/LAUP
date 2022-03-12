@@ -1,3 +1,5 @@
+# vector-matrix multiplication of a r by c matrix M with an c-vector u.
+
 import numpy as no
 
 a = no.array([0, 4, 6])

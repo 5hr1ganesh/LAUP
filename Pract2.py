@@ -1,3 +1,8 @@
+# Enter vector u as n-llist
+# Enter another vector v as a n-list
+# Find the vector au+bv for different values of a and b
+# Find the dot product of u and v
+
 import numpy as np
 
 u = np.array((3, 4, 5))

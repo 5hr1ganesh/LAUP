@@ -1,3 +1,5 @@
+# Enter positive number N and find numbers a and b such that a^2-b^2=N
+
 N = 36
 a = 9
 b = 4
